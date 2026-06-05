@@ -1,0 +1,11 @@
+Age,Gender,Vehicle_Age,Vehicle_Value,Driving_Experience,Annual_Mileage,Accidents_Last_5Yrs,Traffic_Violations,Credit_Score,Policy_Type,Claim_Amount
+25,Male,3,25000,5,18000,1,2,680,Basic,3200
+45,Female,7,40000,20,12000,0,0,780,Premium,900
+32,Male,5,30000,10,15000,2,1,710,Standard,4500
+55,Female,10,45000,30,10000,0,0,820,Premium,500
+29,Male,2,22000,7,20000,3,2,650,Basic,6200
+41,Female,6,38000,18,13000,1,1,760,Standard,2100
+36,Male,4,32000,12,16000,1,0,730,Standard,1800
+60,Female,12,50000,35,9000,0,0,850,Premium,300
+27,Male,1,20000,4,22000,4,3,620,Basic,7800
+48,Female,8,42000,25,11000,0,1,790,Premium,1200
